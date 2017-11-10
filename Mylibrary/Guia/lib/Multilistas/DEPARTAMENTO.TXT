@@ -1,0 +1,3 @@
+10,Ropa
+20,Hogar
+30,Ferreteria
